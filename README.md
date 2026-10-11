@@ -362,5 +362,6 @@ Los resultados obtenidos deben interpretarse dentro de las condiciones específi
 ## Autor
 
 Trabajo Fin de Máster desarrollado como parte del programa de **Máster en Big Data y Ciencia de Datos**.
-Andrés Felipe Sánchez Cuenca 
+
+Andrés Felipe Sánchez Cuenca.
 Universidad Internacional de Valencia — VIU.
