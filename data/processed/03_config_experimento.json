@@ -1,0 +1,15 @@
+{
+    "estacion_objetivo": "21205710",
+    "estaciones_auxiliares": [
+        "21201230",
+        "21201600"
+    ],
+    "train_inicio": "2004-01-01 00:00:00",
+    "train_fin": "2011-12-31 00:00:00",
+    "valid_inicio": "2012-01-01 00:00:00",
+    "valid_fin": "2013-12-31 00:00:00",
+    "test_inicio": "2014-01-01 00:00:00",
+    "test_fin": "2015-12-31 00:00:00",
+    "frac_mask": 0.25,
+    "random_state": 42
+}
